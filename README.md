@@ -18,7 +18,7 @@ I’m passionate about writing clean code, uncovering insights through data, and
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Flask_logo.svg" alt="Flask" height="40"/>
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png" alt="Flask" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/streamlit.png" alt="Streamlit" height="40"/>
 </p>
 
