@@ -50,5 +50,5 @@ I’m passionate about writing clean code, uncovering insights through data, and
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Microsoft_Excel_logo_%282019%29.svg" alt="Excel" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Microsoft_Excel_Logo_2019.svg" alt="Excel" height="40"/>
 </p>
