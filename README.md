@@ -24,7 +24,7 @@ I’m passionate about writing clean code, uncovering insights through data, and
 
 **Data & Visualization**  
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="40"/>
+  <img src="https://pnghq.com/wp-content/uploads/new-power-bi-logo-png-graphic.png" alt="Matplotlib" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="40"/>
 </p>
