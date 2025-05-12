@@ -30,12 +30,25 @@ I’m passionate about writing clean code, uncovering insights through data, and
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code) 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools
+
+**Languages & Frameworks**  
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/streamlit.png" alt="Streamlit" height="40"/>
+</p>
+
+**Data & Visualization**  
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="40"/>
+</p>
+
+**Tools & IDEs**  
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Microsoft_Excel_Logo_2021.svg" alt="Excel" height="40"/>
+</p>
