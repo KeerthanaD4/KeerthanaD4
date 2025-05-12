@@ -49,6 +49,6 @@ I’m passionate about writing clean code, uncovering insights through data, and
 **Tools & IDEs**  
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Microsoft_Excel_Logo_2021.svg" alt="Excel" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Microsoft_Excel_logo_%282019%29.svg" alt="Excel" height="40"/>
 </p>
