@@ -2,7 +2,7 @@
 
 Currently pursuing an M.Tech in Artificial Intelligence at REVA University, I specialize in transforming real-world challenges into intelligent tech solutions. With hands-on experience in Python, SQL, Power BI, and ML fundamentals. Whether it’s generating dashboards or training CNNs, I bring a practical, problem-solving mindset to everything I build. Always learning, always experimenting.
 
-💼 [LinkedIn](https://www.linkedin.com/in/keerthana-d-48636a265/) | 🧑‍💻 [GitHub](https://github.com/KeerthanaD4) | 📫 [Email Me](mailto:kekee8792@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/keerthana-d-48636a265/) | 🧑‍💻 [GitHub](https://github.com/KeerthanaD4) | 📫 [Email Me](mailto:kekee8792@gmail.com) | 🌐 [Portfolio](https://keerthanad4.github.io/)
 
 ---
 
